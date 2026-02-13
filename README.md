@@ -11,7 +11,7 @@ It is maintained by **Amin Raoufi** and primarily powers the **Tomanify** WordPr
 ## What is this?
 A lightweight, public **JSON data feed** intended for developers and website owners who need a simple, fast endpoint for exchange-rate snapshots.
 
-- **Update frequency:** 4× per day
+- **Update frequency:** 3-4× per day
 - **Pipeline:** rates are collected on an external server, cross-checked/validated, and a final consolidated snapshot is published here.
 
 ---
