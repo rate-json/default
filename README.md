@@ -42,4 +42,4 @@ While it is generated with high care, it comes **with no warranty** of accuracy,
 
 ## Feedback / Contact
 Please open an issue/comment here, or message me on LinkedIn:
-https://www.linkedin.com/in/aminraoufi
+https://www.linkedin.com/in/araoufi
