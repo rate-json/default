@@ -1,4 +1,4 @@
-🇮🇷 **[برای مطالعه راهنما به زبان فارسی اینجا کلیک کنید](https://github.com/rate-json/default/blob/main/README.fa.md)**
+🇮🇷 **[برای مطالعه راهنما به زبان فارسی اینجا کلیک کنید](README-fa.md)**
 ---
 
 # rate-json (default) — Tomanify JSON Feed
