@@ -1,3 +1,7 @@
+🇮🇷 **[برای مطالعه راهنما به زبان فارسی اینجا کلیک کنید](README.fa.md)**
+
+---
+
 # rate-json (default) — Tomanify JSON Feed
 
 This repository publishes a **free JSON snapshot of Iran free-market currency rates (Toman)** for:
@@ -35,8 +39,9 @@ If you want to use it in commercial products/services, please contact me first.
 ---
 
 ## Disclaimer
-This data is provided **for free** and is **not intended for trading/financial decisions**.  
-While it is generated with high care, it comes **with no warranty** of accuracy, completeness, or availability.
+This project is an open-source, non-commercial, and purely educational/research tool. It merely aggregates publicly available historical data and does not engage in price discovery, currency trading, or setting market rates. 
+
+The data is provided **"as is" for free**, without any express or implied warranties regarding accuracy, completeness, or real-time availability. Use at your own risk.
 
 ---
 
